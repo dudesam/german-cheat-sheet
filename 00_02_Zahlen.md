@@ -1,12 +1,16 @@
 | Number | German Spelling | Ordinal | German Ordinal Spelling |
 |--------|----------------|---------|------------------------|
+| -1000 | minus tausend | - | - |
+| -100 | minus hundert | - | - |
+| -10 | minus zehn | - | - |
+| -1 | minus eins | - | - |
 | 0 | null | - | - |
-| 1 | eins | 1. | erste |
 | 1/4 | ein Viertel | - | - |
 | 1/3 | ein Drittel | - | - |
 | 1/2 | eine Hälfte | - | - |
 | 2/3 | zwei Drittel | - | - |
 | 3/4 | drei Viertel | - | - |
+| 1 | eins | 1. | erste |
 | 2 | zwei | 2. | zweite |
 | 3 | drei | 3. | dritte |
 | 4 | vier | 4. | vierte |
@@ -43,6 +47,7 @@
 | 80 | achtzig | 80. | achtzigste |
 | 90 | neunzig | 90. | neunzigste |
 | 100 | hundert | 100. | hundertste |
+| 123 | hundertdreiundzwanzig | 123. | hundertdreiundzwanzigste |
 | 1000 | tausend | 1000. | tausendste |
 | 1237 | tausendzweihundertsiebenunddreißig | 1237. | tausendzweihundertsiebenunddreißigste |
 | 1000000 | eine Million | 1000000. | eine millionste |
