@@ -27,7 +27,7 @@ All tables, grammar rules, vocabulary lists, and educational content in this rep
 ---
 *Generated: late 2025*
 
-*AI Model: Claude Sonnet 4*
+*AI Models: `Claude Sonnet 4` for generation and `GPT-5` for validation*
 
 *Human Guidance: Provided throughout content creation process*
 
