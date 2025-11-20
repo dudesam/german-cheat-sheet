@@ -47,10 +47,10 @@
 | 80 | achtzig | 80. | achtzigste |
 | 90 | neunzig | 90. | neunzigste |
 | 100 | hundert | 100. | hundertste |
-| 123 | hundertdreiundzwanzig | 123. | hundertdreiundzwanzigste |
+| 123 | einhundertdreiundzwanzig | 123. | einhundertdreiundzwanzigste |
 | 1000 | tausend | 1000. | tausendste |
-| 1237 | tausendzweihundertsiebenunddreißig | 1237. | tausendzweihundertsiebenunddreißigste |
-| 1000000 | eine Million | 1000000. | eine millionste |
-| 1234567 | eine Million zweihundertvierunddreißigtausendfünfhundertsiebenundsechzig | 1234567. | eine Million zweihundertvierunddreißigtausendfünfhundertsiebenundsechzigste |
-| 1000000000 | eine Milliarde | 1000000000. | eine milliardste |
-| 1234567898 | eine Milliarde zweihundertvierunddreißig Millionen fünfhundertsiebenundsechzigtausendachthundertachtundneunzig | 1234567898. | eine Milliarde zweihundertvierunddreißig Millionen fünfhundertsiebenundsechzigtausendachthundertachtundneunzigste |
+| 1237 | eintausendzweihundertsiebenunddreißig | 1237. | eintausendzweihundertsiebenunddreißigste |
+| 1000000 | eine Million | 1000000. | millionste |
+| 1234567 | eine Million zweihundertvierunddreißigtausendfünfhundertsiebenundsechzig | 1234567. | millionzweihundertvierunddreißigtausendfünfhundertsiebenundsechzigste |
+| 1000000000 | eine Milliarde | 1000000000. | milliardste |
+| 1234567898 | eine Milliarde zweihundertvierunddreißig Millionen fünfhundertsiebenundsechzigtausendachthundertachtundneunzig | 1234567898. | milliardezweihundertvierunddreißigmillionenfünfhundertsiebenundsechzigtausendachthundertachtundneunzigste |
