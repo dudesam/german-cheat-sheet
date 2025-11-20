@@ -12,7 +12,6 @@
 | Gender/Number | Nominative | Accusative | Dative | Genitive |
 |---------------|------------|------------|--------|----------|
 | Masculine | ein | einen | einem | eines |
-| Masculine | ein | einen | einem | eines |
 | Feminine | eine | eine | einer | einer |
 | Neuter | ein | ein | einem | eines |
 | Plural | - | - | - | - |
