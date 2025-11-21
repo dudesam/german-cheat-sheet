@@ -2,6 +2,37 @@
 
 > German language cheat sheet | Spickzettel für die deutsche Sprache
 
+## Important Notice
+
+>📋 This is a REFERENCE CHEAT SHEET, not a study plan!
+
+### What this is:
+
+- Complete German grammar reference for A1-B1 level
+- Quick lookup tables for articles, cases, verb conjugations
+- Essential vocabulary (top 200 most useful words)
+- Example sentences for practical usage
+
+### What this is NOT:
+
+- ❌ A step-by-step learning course
+- ❌ A structured study program
+
+### How to use:
+
+- 🔍 Quick reference - Look up grammar rules when needed
+- 📚 Study support - Use alongside your German course
+- ✅ Fact checking - Verify grammar and word forms
+- 💡 Examples - See real German sentences in context
+
+### About level organization:
+
+- Level 0, 1, 2 = Difficulty indication only (not learning sequence)
+- All content suitable for A1-B1 learners
+- Use any section based on your current needs
+- Not sequential - jump to any topic as required
+- Think of this as: A German grammar dictionary and quick reference guide for students, learners, and  anyone needing quick German grammar and vocabulary reference at A1-B1 level.
+
 ## Disclaimer
 
 **AI-Generated Content Notice**
