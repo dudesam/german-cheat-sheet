@@ -66,7 +66,44 @@ All tables, grammar rules, vocabulary lists, and educational content in this rep
 
 ## Foundation
 
-> `TO-DO!`
+### **Alphabet & Numbers**  
+- [Alphabet](00_Foundation/00_01_Alphabet.md) — *alphabet, pronunciation, umlauts*
+- [Zahlen](00_Foundation/00_02_Zahlen.md) — *numbers, ordinals, fractions*
+
+### **Time & Calendar**  
+- [Zeit](00_Foundation/00_03_Zeit.md) — *time units, durations, clock time*
+- [Teile des Tages](00_Foundation/00_04_Teile-des-Tages.md) — *parts of day, greetings*
+- [Wochentage und Monate](00_Foundation/00_05_Wochentage-und-Monate.md) — *weekdays, months, prepositions*
+
+### **Questions & Cases**  
+- [Fragewörter](00_Foundation/00_06_Fragewörter.md) — *question words, usage, examples*
+- [Fälle und Fragewörter](00_Foundation/00_07_Fälle-und-Fragewörter.md) — *grammatical cases, triggers, examples*
+
+### **Pronouns & Articles**  
+- [Persönliche Pronomen](00_Foundation/00_08_Persönliche-Pronomen.md) — *personal, possessive, reflexive, demonstrative pronouns*
+- [Artikel](00_Foundation/00_09_Artikel.md) — *definite, indefinite, negative, contracted articles*
+
+### **Essential Verbs**  
+- [Haben / Sein](00_Foundation/00_10_Haben-Sein.md) — *haben, sein, conjugation, tenses*
+- [Modalverben und verwandte Verben](00_Foundation/00_11_Modalverben-und-verwandte-Verben.md) — *modal verbs, related verbs, examples*
+- [Konjugationstabelle der Modalverben](00_Foundation/00_12_Konjugationstabelle-der-Modalverben.md) — *full conjugation tables for modals and core verbs*
+
+### **Verb Types & Patterns**  
+- [Regelmäßige Verben](00_Foundation/00_13_Regelmäßige-Verben.md) — *regular verbs, stem-changing rules, conjugation*
+- [Unregelmäßige Verben](00_Foundation/00_14_Unregelmäßige-Verben.md) — *irregular/strong verbs, vowel change patterns*
+- [Präfixverben trennbar und untrennbar](00_Foundation/00_15_Präfixverben-trennbar-und-untrennbar.md) — *separable/inseparable prefix verbs, rules, examples*
+- [Futur](00_Foundation/00_16_Futur.md) — *future tenses Futur I & II, alternative future expressions*
+
+### **Nouns & Structure**  
+- [Substantive](00_Foundation/00_17_Substantive.md) — *gender rules, plural formation, categories*
+
+### **Negation & Syntax**  
+- [Negation](00_Foundation/00_18_Negation.md) — *negation words, rules, positions, examples*
+- [Wortreihenfolge](00_Foundation/00_19_Wortreihenfolge.md) — *word order rules, TMP rule, subordinate clauses*
+
+### **Core Vocabulary & Practice**  
+- [Die nützlichsten Substantive und Verben](00_Foundation/00_20_Die-nützlichsten-Substantive-und-Verben.md) — *top 100 nouns & verbs, frequency-based selection*
+- [Beispielsätze mit Substantiven und Verben](00_Foundation/00_22_Beispielsätze-mit-Substantiven-und-Verben.md) — *250 example sentences using top nouns & verbs*
 
 ## Development
 
