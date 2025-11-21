@@ -103,7 +103,7 @@ All tables, grammar rules, vocabulary lists, and educational content in this rep
 
 ### **Core Vocabulary & Practice**  
 - [Die nützlichsten Substantive und Verben](00_Foundation/00_20_Die-nützlichsten-Substantive-und-Verben.md) — *top 100 nouns & verbs, frequency-based selection*
-- [Beispielsätze mit Substantiven und Verben](00_Foundation/00_22_Beispielsätze-mit-Substantiven-und-Verben.md) — *250 example sentences using top nouns & verbs*
+- [Beispielsätze mit Substantiven und Verben](00_Foundation/00_21_Beispielsätze-mit-Substantiven-und-Verben.md) — *250 example sentences using top nouns & verbs*
 
 ## Development
 
